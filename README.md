@@ -1,10 +1,11 @@
-🚀 Projeto 27 Anos — Front-end Moderno & Performance
-📄 Descrição
+## 🚀 Projeto 27 Anos — Front-end Moderno & Performance
+
+## 📄 Descrição
 O projeto "27 Anos" é uma landing page moderna e responsiva construída para celebrar um evento especial, destacando-se pela implementação de um contador regressivo (countdown) em tempo real desenvolvido em JavaScript dinâmico.
 
 O principal foco deste projeto foi a aplicação de boas práticas de desenvolvimento front-end, utilizando pré-processamento de estilos com SASS e uma esteira de automação e empacotamento de alto desempenho com o Parcel Bundler para garantir carregamento rápido e otimização de assets.
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 O projeto foi construído utilizando o seguinte ecossistema de ferramentas:
 
 HTML5 — Estrutura semântica e acessível.
@@ -15,7 +16,7 @@ JavaScript (ES6+) — Lógica de manipulação do DOM e cálculo matemático do 
 
 Parcel Bundler — Compilação de scripts, minificação de código, otimização de imagens e bundling ultra-rápido.
 
-⚙️ Arquitetura e Diferenciais Técnicos
+## ⚙️ Arquitetura e Diferenciais Técnicos
 1. Performance & Bundling (Parcel)
 Em vez de depender de configurações complexas, o Parcel foi adotado por sua velocidade e capacidade de entregar arquivos de produção altamente otimizados.
 
@@ -33,7 +34,7 @@ Mixins & Variáveis: Centralização da paleta de cores, tipografia e regras de 
 3. Lógica do Countdown (JavaScript)
 A engrenagem principal da página é um script personalizado que calcula a diferença de tempo milissegundo por milissegundo, atualizando os campos de dias, horas, minutos e segundos no DOM sem causar gargalos de renderização (re-flows desnecessários).
 
-🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina o Node.js e um gerenciador de pacotes (npm).
 
@@ -48,7 +49,9 @@ npm run build
 
 Isso criará uma pasta dist/ com todo o código minificado, imagens otimizadas e pronto para deploy.
 
-📂 Estrutura de Pastas Principais
+## 📂 Estrutura de Pastas Principais
+
+
 ├── src/
 │   ├── assets/       # Imagens e mídias otimizadas
 │   ├── styles/       # Arquivos SASS (.scss) organizados por módulos
@@ -57,5 +60,5 @@ Isso criará uma pasta dist/ com todo o código minificado, imagens otimizadas e
 ├── package.json      # Dependências e scripts de automação
 └── README.md         # Documentação do projeto
 
-👤 Autora
+## 👤 Autora
 Jessica Silva — GitHub / LinkedIn
