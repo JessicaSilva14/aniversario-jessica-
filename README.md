@@ -44,7 +44,7 @@ git clone https://github.com/seu-usuario/projeto-27-anos.git
 cd projeto-27-anos
 npm install
 npm run dev
-# ou o comando específico configurado no seu package.json (ex: npx parcel index.html)
+ou o comando específico configurado no seu package.json (ex: npx parcel index.html)
 npm run build
 
 Isso criará uma pasta dist/ com todo o código minificado, imagens otimizadas e pronto para deploy.
